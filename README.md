@@ -21,8 +21,14 @@ The application leverages the BLIP model from Hugging Face
 ⚡ Features
 
 ✅ Upload or paste image URLs
+
+
 ✅ Generate captions with BLIP
+
+
 ✅ Easy-to-use Gradio interface
+
+
 ✅ Lightweight and beginner-friendly
 
 🛠️ Tech Stack
