@@ -69,7 +69,7 @@ Gradio will start a local server → open in your browser:
 📸 Example
 
 
-![Uploading Screenshot 2025-09-03 193434.png…]()
+<img width="2788" height="1455" alt="Screenshot 2025-09-03 193434" src="https://github.com/user-attachments/assets/aa650d35-a2bd-478c-aec4-1a3d79c9a3e6" />
 
 🎓 Learning Outcomes
 
@@ -80,6 +80,7 @@ By completing this project, you will learn how to:
 🧠 Implement BLIP for image captioning
 
 🌐 Build a Gradio interface for AI apps
+
 
 🤝 Contributing
 
