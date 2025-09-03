@@ -67,8 +67,9 @@ Gradio will start a local server → open in your browser:
 👉 http://127.0.0.1:7860/
 
 📸 Example
-![Uploading Screenshot 2025-09-03 193434.png…]()
 
+
+![Uploading Screenshot 2025-09-03 193434.png…]()
 
 🎓 Learning Outcomes
 
