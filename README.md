@@ -26,20 +26,16 @@ The application leverages the BLIP model from Hugging Face
 ✅ Lightweight and beginner-friendly
 
 🛠️ Tech Stack
-
-Python 3.8+
-
-Hugging Face Transformers
-
-BLIP Model
-
-Gradio
+✅Python 3.8+
+✅Hugging Face Transformers
+✅BLIP Model
+✅Gradio
 
 📦 Installation
 
 Clone the repo
 
-git clone https://github.com/your-username/image-captioning-ai.git
+git clone https://github.com/your-username/ImageCaptioning AI Tool.git
 cd image-captioning-ai
 
 
