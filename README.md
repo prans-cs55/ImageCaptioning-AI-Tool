@@ -67,9 +67,8 @@ Gradio will start a local server → open in your browser:
 👉 http://127.0.0.1:7860/
 
 📸 Example
+![Uploading Screenshot 2025-09-03 193434.png…]()
 
-Input: 🐶 (Image of a dog running on grass)
-Output: "A brown dog running across a grassy field"
 
 🎓 Learning Outcomes
 
@@ -88,4 +87,3 @@ Contributions are welcome! Please fork the repo and open a PR.
 📜 License
 
 Distributed under the MIT License.
-![Uploading Screenshot 2025-09-03 193434.png…]()
