@@ -1,6 +1,7 @@
 📸 Image Captioning AI
 
 Generate meaningful names and captions for photos using BLIP and Gradio
+
 🔍 Overview
 
 This project demonstrates an AI-powered image captioning tool that converts visual information into natural language.
